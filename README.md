@@ -21,6 +21,6 @@ I am a Computer Engineering student deeply passionate about building scalable so
 
 ### 📫 Connect with me
 - 📧 **Email:** [mohammadalisadat1384@gmail.com]
-- 🔗 **LinkedIn:** [[Link to your LinkedIn Profile](https://www.linkedin.com/in/ali-sadat-146899335?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app)]
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/mohammad-ali-sadat]
 
 
