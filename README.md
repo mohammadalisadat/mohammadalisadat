@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mohammad Ali Sadat
 
-<!--
-**mohammadalisadat/mohammadalisadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student deeply passionate about building scalable software, AI algorithms, and engaging games. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 **Major:** Computer Engineering
+- 🧠 **Focus:** Artificial Intelligence, Software Engineering, and Game Development
+- 🛠 **Tools & Languages:** Java, Python, C, Flet, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[Java Kingdom Strategy](https://github.com/YourUsername/java-kingdom-strategy-game)** | A feature-rich strategy game with UI, multithreading, and timed events. |
+| **[AI Puzzle Solvers](https://github.com/YourUsername/ai-puzzle-solvers)** | Solving 8-puzzle & Sudoku using search algorithms & AI techniques. |
+| **[Flet Task Manager](https://github.com/YourUsername/flet-task-manager)** | A productivity app for task management, habit tracking, and goal planning. |
+| **[C Survival Game](https://github.com/YourUsername/c-strategy-survival-game)** | A 2D terminal-based strategy and survival game. |
+
+---
+
+### 📈 GitHub Stats
+(اگر خواستی آمارت رو نمایش بدی، می‌تونی از ابزارهایی مثل `github-readme-stats` استفاده کنی که تو همین فایل README قرار می‌گیرن.)
+
+---
+
+### 📫 Connect with me
+- 📧 **Email:** [YourEmail@Example.com]
+- 🔗 **LinkedIn:** [Link to your LinkedIn Profile]
+
+---
+*Building software, one commit at a time.*
